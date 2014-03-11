@@ -1,0 +1,15 @@
+{
+  "name": "scales",
+  "version": "0.0.0",
+  "description": "Arbirtary scale functions, like in d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Philip Roberts",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.10.2",
+    "d3": "^3.4.3"
+  }
+}
