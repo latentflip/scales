@@ -15,3 +15,7 @@ scale(-100) // -> 0
 scale(0)    // -> 5
 scale(100)    // -> 10
 ```
+
+# License
+
+MIT
