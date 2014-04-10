@@ -1,6 +1,6 @@
 {
   "name": "scales",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Arbirtary scale functions, like in d3",
   "main": "index.js",
   "scripts": {
